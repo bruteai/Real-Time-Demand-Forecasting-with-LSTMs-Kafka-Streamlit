@@ -18,7 +18,7 @@ This project implements **Deep Learning models (LSTM, Transformer-based models)*
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/ai-forecasting.git
+git clone https://github.com/bruteai/ai-forecasting.git
 cd ai-forecasting
 ```
 ### 2️⃣ Install Dependencies
