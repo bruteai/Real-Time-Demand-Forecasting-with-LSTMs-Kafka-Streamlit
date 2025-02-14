@@ -1,4 +1,4 @@
-# 📈 AI-Driven Real-Time Demand Forecasting with LSTMs, Kafka & Streamlit
+# AI-Driven Real-Time Demand Forecasting with LSTMs, Kafka & Streamlit
 
 ## 📌 Project Overview
 This project implements **Deep Learning models (LSTM, Transformer-based models)** for forecasting **retail sales trends** and integrates with **Apache Kafka for real-time data ingestion**. The results are displayed in an **interactive Streamlit dashboard**.
