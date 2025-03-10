@@ -1,21 +1,21 @@
 # AI-Driven Real-Time Demand Forecasting with LSTMs, Kafka & Streamlit
 
-## 📌 Project Overview
+## Project Overview
 This project implements **Deep Learning models (LSTM, Transformer-based models)** for forecasting **retail sales trends** and integrates with **Apache Kafka for real-time data ingestion**. The results are displayed in an **interactive Streamlit dashboard**.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Deep Learning:** PyTorch (LSTM-based forecasting)
 - **Streaming Pipeline:** Apache Kafka (Real-time sales data ingestion)
 - **Visualization:** Streamlit (Interactive Dashboard)
 - **Data Processing:** Pandas, NumPy, MinMaxScaler
 
-## 📌 Features Implemented
+## Features Implemented
 ✅ LSTM-based Time Series Forecasting  
 ✅ Modular architecture with multiple independent components  
 ✅ Integration with **Real-time Apache Kafka Pipeline**  
 ✅ Streamlit Dashboard for Visualization  
 
-## 🚀 How to Run the Project
+## How to Run the Project
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/bruteai/ai-forecasting.git
@@ -45,7 +45,7 @@ streamlit run dashboard/streamlit_dashboard.py
 │── README.md               # Project Documentation
 ```
 
-## 🎯 Future Enhancements
+## Future Enhancements
 - Implement **Transformer-based models (BERT for Time Series Forecasting)**  
 - Deploy as a **cloud-based API for retailers**  
 - Integrate with **real-time stock inventory**  
